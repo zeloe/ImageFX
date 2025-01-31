@@ -7,6 +7,6 @@ This Repository contains experimental image processing effects.
 
 
 <p align="center">
-<img src="/01_RollingFeedback/Renders/rolling_feedback.gif" width=300 height=300>
+<img src="/01_RollingFeedback/Renders/rolling_feedback.gif" width=300 height=300 loop=infinite>
 </p >
 
