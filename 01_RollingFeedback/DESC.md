@@ -28,7 +28,7 @@ a black or a white image.
 This is an example on how it can look:
 
 <p align="center">
-<img src="Renders/feedback.png" width=300 height=300>
+<img src="Renders/feedback.gif" width=300 height=300>
 </p >
 
 ## Rolling
@@ -36,7 +36,7 @@ This is an example on how it can look:
 Numpy has a interesting function called [np.roll](https://numpy.org/doc/stable/reference/generated/numpy.roll.html). By "rolling" a section of an image you get: 
 
 <p align="center">
-<img src="Renders/rolling.png" width=300 height=300>
+<img src="Renders/rolling.gif" width=300 height=300>
 </p >
 
 ## Rolling Feedback
