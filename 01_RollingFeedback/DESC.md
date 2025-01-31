@@ -45,3 +45,10 @@ Putting these two processing methods togheter you can create a "rolling feedback
 <p align="center">
 <img src="Renders/rolling_feedback.gif" width=250 height=250>
 </p >
+
+
+<p> <center><b> with positive feedback coefficient</b></center> </p>
+
+<p align="center">
+<img src="Renders/rolling_feedback_v2.gif" width=250 height=250>
+</p >
