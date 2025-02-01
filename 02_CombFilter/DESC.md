@@ -37,7 +37,7 @@ You can delay a image by one frame.
 
 ## Combfilter on image data
 
-So basically you can apply a combfilter to an image. It is more you treat image data as audio data. Make from image data that is a 2d matrix with different planes a 1d "matrix". Like that image data has same structure as audio data.  Define a delay in samples (audio samples). Apply folling processing: 
+So basically you can apply a combfilter to an image. It is more you treat image data as audio data. Make from image data that is a 2d matrix with different planes a 1d "matrix". Like that image data has same structure as audio data.  Define a delay in samples (audio samples). Apply following processing: 
 <p align="center">
 <img src="Desc_images/signal_flow.png" width=250 height=250>
 </p >
