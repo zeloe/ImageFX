@@ -28,6 +28,6 @@ This Repository contains experimental image processing effects.
 
 
 <p align="center">
-<img src="/03_Ringmodulation/Renders/image_ringmodulation.gif" width=300 height=300 loop=infinite>
+<img src="/03_RingModulation/Renders/image_ringmodulation.gif" width=300 height=300 loop=infinite>
 </p >
 
