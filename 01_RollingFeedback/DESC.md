@@ -1,7 +1,4 @@
 # Rolling Feedback
-<p align="center">
-<img src="Renders/image.png" width=250 height=250>
-</p >
 
 ## Feedback
 
@@ -54,3 +51,7 @@ Putting these two processing methods togheter you can create a "rolling feedback
 <p align="center">
 <img src="Renders/rolling_feedback_v2.gif" width=300 height=300>
 </p >
+
+
+## References
+[Feedback Filters](https://www.analog.com/en/lp/001/beginners-guide-to-dsp.html)
