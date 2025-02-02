@@ -20,3 +20,14 @@ This Repository contains experimental image processing effects.
 <img src="/02_CombFilter/Renders/image_comb_filter.gif" width=300 height=300 loop=infinite>
 </p >
 
+
+
+<p align="center">  
+  <a href="https://github.com/zeloe/ImageFX/blob/main/03_RingModulation/DESC.md" style="text-align:center">Ring Modulation</a>
+  </center> </p>
+
+
+<p align="center">
+<img src="/03_Ringmodulation/Renders/image_ringmodulation.gif" width=300 height=300 loop=infinite>
+</p >
+
